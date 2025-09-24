@@ -193,41 +193,6 @@ Anlık emoji seçici:
 
 ---
 
-## 📦 Kurulum
-
-### Ön Gereksinimler
-- Node.js (v18 veya üzeri)  
-- npm veya yarn  
-
-### Adımlar
-```bash
-git clone <YOUR_GIT_URL>
-cd <YOUR_PROJECT_NAME>
-
-npm install
-npm run dev
-```
-
-Tarayıcıda açın:  
-👉 `http://localhost:3000`
-
----
-
-## 🚀 Deployment
-
-### Vercel ile Deploy (Önerilen)
-1. [Vercel](https://vercel.com) hesabı açın  
-2. Projeyi import edin  
-3. Domain olarak `tools.yelbiz.com.tr` ekleyin  
-
-### Manuel Deploy
-```bash
-npm run build
-npm run start
-```
-
----
-
 ## 🎨 Tasarım Sistemi
 
 - 🌙 Dark/Light Mode desteği  
